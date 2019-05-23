@@ -1,5 +1,3 @@
-# App-Monetization-A-Deep-Dive
-Code repository for App Monetization: A Deep Dive, published by Packt
 # App Monetization: A Deep Dive
 This is the code repository for [App Monetization: A Deep Dive](https://www.packtpub.com/web-development/advanced-css-building-and-styling-website-video?utm_source=github&utm_medium=repository&utm_campaign=9781789809183), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
